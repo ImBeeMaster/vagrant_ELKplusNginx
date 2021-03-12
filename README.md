@@ -15,7 +15,7 @@ RAM: 8192+2048+512*3 = up to 12 GB
 
 CPU:
 4.5 Cores
-(requested for vb's, but actual consumption depends on actual workload)
+5(requested for vb's, but actual consumption depends on actual workload)
 
 To do:
 System logs gathering
